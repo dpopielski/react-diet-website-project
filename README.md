@@ -1,6 +1,6 @@
 My first website project using React for a diet doctor.
 
-Using technologies:
+technologies:
 - React
 - SCSS
 - Webpack
