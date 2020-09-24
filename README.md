@@ -1,3 +1,11 @@
+The first website project using React for begining diet doctor.
+
+Using technologies:
+- React
+- SCSS
+- Webpack
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
