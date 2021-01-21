@@ -1,4 +1,4 @@
-My first website project using React for a diet doctor.
+Website project using React for a diet doctor.
 
 technologies:
 - React
